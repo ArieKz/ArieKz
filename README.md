@@ -1,4 +1,4 @@
-<h1>Hello, I'm Arielle, an Artist and aspiring<ahref="http://www.linkedin.com/in/ariellekunz-denverart">IT Professional</a>☺</h1>   
+<h1>Hello, I'm Arielle, Artist and aspiring <a href="http://www.linkedin.com/in/ariellekunz-denverart"> IT Professional</a>☺</h1>   
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
