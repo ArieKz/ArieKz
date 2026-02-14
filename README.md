@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arielle, ever evolving and aspiring <a href="http://www.linkedin.com/in/ariellekunz-denverart"> IT Professional</a>☺</h1>   
+<h1>Hi, I'm Arielle, an ever evolving and aspiring <a href="http://www.linkedin.com/in/ariellekunz-denverart"> IT Professional</a>☺</h1>   
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
