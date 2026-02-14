@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Performing Activities on the Network<b>
+  - [(Azure Portal) Open VM-Packet Sniffer- Observe Traffic](https://github.com/ArieKz/activities-network-traffic)
+  - [(Azure Portal) Trouble shoot-Firewall-Network Security Issues](https://github.com/ArieKz/configure-firewall)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ArieKz/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ArieKz/post-install-config)
