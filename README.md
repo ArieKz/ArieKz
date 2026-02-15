@@ -2,16 +2,13 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Performing Activities on the Network<b>
+- <b>Microsoft Azure<b>
   - [Inspecting Network Protocols: Open VM-Packet Sniffer- Observe Traffic](https://github.com/ArieKz/activities-network-traffic)
   - [Inspecting Network Protocols: Troubleshoot-Firewall-Network Traffic Issues](https://github.com/ArieKz/troubleshoot-firewall)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ArieKz/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ArieKz/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ArieKz/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ArieKz/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ArieKz/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
