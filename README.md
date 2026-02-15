@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure<b>
-  - [Inspecting Network Protocols: Open VM-Packet Sniffer- Observe Traffic](https://github.com/ArieKz/activities-network-traffic)
+  - [Inspecting Network Protocols: Pre-Production Through Network Traffic Monitoring](https://github.com/ArieKz/activities-network-traffic)
   - [Inspecting Network Protocols: Troubleshoot Firewall-Network Traffic Issues](https://github.com/ArieKz/troubleshoot-firewall)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ArieKz/osticket-prereqs)
